@@ -11,6 +11,4 @@ Dedicação é uma das minhas qualidades mais fortes.
 Eu gosto de ler.
 A área web me interessa muito.
 
-LorenaMendesB/LorenaMendesB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
