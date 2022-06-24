@@ -38,5 +38,6 @@ Dedicação é uma das minhas qualidades mais fortes. <br>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
   <a href = "mailto:lorebarbosa1004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorena-mendes-barbosa-salinas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/LorenaMendesB/LorenaMendesB/blob/main/.github/workflows/cobrinha.yml)
+  
+  ![Snake animation](https://github.com/LorenaMendesB/LorenaMendesB/blob/output/github-contribution-grid-snake.svg)
   </div>
