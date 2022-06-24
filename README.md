@@ -12,7 +12,7 @@ La dedicación es una de mis cualidades más fuertes. <br>
 
 Dedicação é uma das minhas qualidades mais fortes. <br>
 📚 - Eu gosto de ler. <br>
-🌐 - A área web me interessa muito. <br><br>
+🌐 - A área de web me interessa muito. <br><br>
 
 <div align="center">
   <a href="https://github.com/LorenaMendesB"></a>
